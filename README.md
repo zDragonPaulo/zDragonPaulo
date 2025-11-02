@@ -33,6 +33,13 @@
 
 <hr>
 
+### My Socials
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=facebook,instagram,discord,twitter,linkedin,gmail">
+</p>
+
+<hr>
 
 ## ⚡️ Stats
 
