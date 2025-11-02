@@ -36,7 +36,7 @@
 ### My Socials
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=facebook,instagram,discord,twitter,linkedin,gmail">
+    <img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin,gmail">
 </p>
 
 <hr>
